@@ -1,7 +1,7 @@
 {
   "name": "discovery-swarm-web",
   "version": "2.0.0",
-  "description": "Abstracts away discovery-swarm interaction with WebRTC and a websocket gateway.",
+  "description": "[stackblitz compat fork] Abstracts away discovery-swarm interaction with WebRTC and a websocket gateway.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
@@ -32,7 +32,7 @@
     "@geut/discovery-swarm-webrtc": "^2.2.4",
     "debug": "^4.1.1",
     "discovery-swarm-stream": "^2.1.1",
-    "hyperdiscovery": "^9.0.2",
+    "hyperdiscovery": "https://github.com/100ideas/hyperdiscovery/",
     "length-prefixed-message": "^3.0.3",
     "randombytes": "^2.1.0",
     "websocket-stream": "^5.1.2",
