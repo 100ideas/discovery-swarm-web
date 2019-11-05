@@ -32,7 +32,7 @@
     "@geut/discovery-swarm-webrtc": "^2.2.4",
     "debug": "^4.1.1",
     "discovery-swarm-stream": "^2.1.1",
-    "hyperdiscovery": "https://github.com/100ideas/hyperdiscovery/",
+    "hyperdiscovery": "https://github.com/100ideas/hyperdiscovery#10.0.1",
     "length-prefixed-message": "^3.0.3",
     "randombytes": "^2.1.0",
     "websocket-stream": "^5.1.2",
